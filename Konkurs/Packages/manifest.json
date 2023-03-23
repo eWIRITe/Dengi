@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "com.unity.ads": "3.7.5",
+    "com.unity.analytics": "3.6.12",
     "com.unity.collab-proxy": "1.17.7",
     "com.unity.connect.share": "4.2.3",
     "com.unity.feature.development": "1.0.1",
@@ -8,6 +10,7 @@
     "com.unity.ide.vscode": "1.2.5",
     "com.unity.learn.iet-framework": "2.2.2",
     "com.unity.probuilder": "5.0.3",
+    "com.unity.purchasing": "4.5.1",
     "com.unity.render-pipelines.high-definition": "12.1.8",
     "com.unity.render-pipelines.universal": "12.1.8",
     "com.unity.test-framework": "1.1.31",
